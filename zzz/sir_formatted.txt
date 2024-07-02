@@ -1,0 +1,21 @@
+{"origin": "South Ferry/Terminal, New York, NY 10004, USA", "destination": "1 Ferry Terminal Viaduct, Staten Island, NY 10301, USA", "distancekm": "21.8 km", "distancem": 21821, "durationmin": "29 mins", "durationsec": 1767}
+{"origin": "1 Ferry Terminal Viaduct, Staten Island, NY 10301, USA", "destination": "6 Victory Blvd, Staten Island, NY 10301, USA", "distancekm": "0.9 km", "distancem": 934, "durationmin": "4 mins", "durationsec": 257}
+{"origin": "6 Victory Blvd, Staten Island, NY 10301, USA", "destination": "Stapleton, Staten Island, NY 10304, USA", "distancekm": "1.2 km", "distancem": 1245, "durationmin": "5 mins", "durationsec": 301}
+{"origin": "Stapleton, Staten Island, NY 10304, USA", "destination": "861 Bay St, Staten Island, NY 10304, USA", "distancekm": "0.9 km", "distancem": 898, "durationmin": "3 mins", "durationsec": 170}
+{"origin": "861 Bay St, Staten Island, NY 10304, USA", "destination": "41 Grasmere Ave, Staten Island, NY 10304, USA", "distancekm": "2.7 km", "distancem": 2662, "durationmin": "7 mins", "durationsec": 398}
+{"origin": "41 Grasmere Ave, Staten Island, NY 10304, USA", "destination": "Old Town, Staten Island, NY 10304, USA", "distancekm": "1.4 km", "distancem": 1351, "durationmin": "4 mins", "durationsec": 262}
+{"origin": "Old Town, Staten Island, NY 10304, USA", "destination": "Dongan Hills, Staten Island, NY 10305, USA", "distancekm": "1.6 km", "distancem": 1578, "durationmin": "4 mins", "durationsec": 235}
+{"origin": "Dongan Hills, Staten Island, NY 10305, USA", "destination": "Jefferson Av, Staten Island, NY 10306, USA", "distancekm": "1.4 km", "distancem": 1362, "durationmin": "3 mins", "durationsec": 207}
+{"origin": "Jefferson Av, Staten Island, NY 10306, USA", "destination": "Grant City, Staten Island, NY 10306, USA", "distancekm": "0.9 km", "distancem": 934, "durationmin": "3 mins", "durationsec": 165}
+{"origin": "Grant City, Staten Island, NY 10306, USA", "destination": "120 New Dorp Ln, Staten Island, NY 10306, USA", "distancekm": "1.0 km", "distancem": 1011, "durationmin": "3 mins", "durationsec": 154}
+{"origin": "120 New Dorp Ln, Staten Island, NY 10306, USA", "destination": "109 Guyon Ave, Staten Island, NY 10306, USA", "distancekm": "1.5 km", "distancem": 1473, "durationmin": "4 mins", "durationsec": 264}
+{"origin": "109 Guyon Ave, Staten Island, NY 10306, USA", "destination": "54 Justin Ave, Staten Island, NY 10306, USA", "distancekm": "1.7 km", "distancem": 1709, "durationmin": "5 mins", "durationsec": 277}
+{"origin": "54 Justin Ave, Staten Island, NY 10306, USA", "destination": "Great Kills, Staten Island, NY 10308, USA", "distancekm": "1.6 km", "distancem": 1594, "durationmin": "4 mins", "durationsec": 247}
+{"origin": "Great Kills, Staten Island, NY 10308, USA", "destination": "Eltingville, Staten Island, NY 10312, USA", "distancekm": "1.8 km", "distancem": 1798, "durationmin": "5 mins", "durationsec": 320}
+{"origin": "Eltingville, Staten Island, NY 10312, USA", "destination": "Annadale, Staten Island, NY 10312, USA", "distancekm": "1.9 km", "distancem": 1939, "durationmin": "5 mins", "durationsec": 320}
+{"origin": "Annadale, Staten Island, NY 10312, USA", "destination": "340 Huguenot Ave, Staten Island, NY 10312, USA", "distancekm": "1.9 km", "distancem": 1874, "durationmin": "4 mins", "durationsec": 246}
+{"origin": "340 Huguenot Ave, Staten Island, NY 10312, USA", "destination": "45 Seguine Ave, Staten Island, NY 10309, USA", "distancekm": "1.5 km", "distancem": 1472, "durationmin": "4 mins", "durationsec": 267}
+{"origin": "45 Seguine Ave, Staten Island, NY 10309, USA", "destination": "6365 Amboy Rd, Staten Island, NY 10309, USA", "distancekm": "1.8 km", "distancem": 1758, "durationmin": "6 mins", "durationsec": 330}
+{"origin": "6365 Amboy Rd, Staten Island, NY 10309, USA", "destination": "Richmond Valley, Staten Island, NY 10309, USA", "distancekm": "1.3 km", "distancem": 1298, "durationmin": "3 mins", "durationsec": 156}
+{"origin": "Richmond Valley, Staten Island, NY 10309, USA", "destination": "Arthur Kill, Staten Island, NY 10307, USA", "distancekm": "1.5 km", "distancem": 1507, "durationmin": "3 mins", "durationsec": 176}
+{"origin": "Arthur Kill, Staten Island, NY 10307, USA", "destination": "Tottenville, Staten Island, NY 10307, USA", "distancekm": "2.0 km", "distancem": 2034, "durationmin": "5 mins", "durationsec": 285}

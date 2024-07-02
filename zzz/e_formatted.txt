@@ -1,0 +1,21 @@
+{"origin": "14723 Archer Ave, Jamaica, NY 11432, USA", "destination": "Sutphin Blvd-Archer Av-JFK Airport, Queens, NY 11435, USA", "distancekm": "0.6 km", "distancem": 609, "durationmin": "3 mins", "durationsec": 170}
+{"origin": "Sutphin Blvd-Archer Av-JFK Airport, Queens, NY 11435, USA", "destination": "135-20 Jamaica Ave, Jamaica, NY 11418, USA", "distancekm": "1.4 km", "distancem": 1418, "durationmin": "6 mins", "durationsec": 342}
+{"origin": "135-20 Jamaica Ave, Jamaica, NY 11418, USA", "destination": "Briarwood, &, Queens Blvd &, Main St, Queens, NY 11435, USA", "distancekm": "1.5 km", "distancem": 1475, "durationmin": "5 mins", "durationsec": 286}
+{"origin": "Briarwood, &, Queens Blvd &, Main St, Queens, NY 11435, USA", "destination": "6459 Queens Blvd, Forest Hills, NY 11375, USA", "distancekm": "3.6 km", "distancem": 3620, "durationmin": "8 mins", "durationsec": 476}
+{"origin": "6459 Queens Blvd, Forest Hills, NY 11375, USA", "destination": "75 Av, 75th Ave, Queens, NY 11375, USA", "distancekm": "2.2 km", "distancem": 2177, "durationmin": "8 mins", "durationsec": 455}
+{"origin": "75 Av, 75th Ave, Queens, NY 11375, USA", "destination": "Forest Hills - 71 Av, Queens, NY 11375, USA", "distancekm": "1.1 km", "distancem": 1127, "durationmin": "5 mins", "durationsec": 270}
+{"origin": "Forest Hills - 71 Av, Queens, NY 11375, USA", "destination": "74 street Roosevelt Ave, Elmhurst, NY 11373, USA", "distancekm": "5.3 km", "distancem": 5329, "durationmin": "16 mins", "durationsec": 935}
+{"origin": "74 street Roosevelt Ave, Elmhurst, NY 11373, USA", "destination": "Queens Plaza, Queens, NY 11101, USA", "distancekm": "4.3 km", "distancem": 4268, "durationmin": "15 mins", "durationsec": 925}
+{"origin": "Queens Plaza, Queens, NY 11101, USA", "destination": "21-32 44th Dr, Long Island City, NY 11101, USA", "distancekm": "0.8 km", "distancem": 792, "durationmin": "5 mins", "durationsec": 282}
+{"origin": "21-32 44th Dr, Long Island City, NY 11101, USA", "destination": "214 E 53rd St, New York, NY 10022, USA", "distancekm": "4.1 km", "distancem": 4148, "durationmin": "12 mins", "durationsec": 699}
+{"origin": "214 E 53rd St, New York, NY 10022, USA", "destination": "Paley Park, 3 E 53rd St, New York, NY 10022, USA", "distancekm": "0.6 km", "distancem": 596, "durationmin": "4 mins", "durationsec": 221}
+{"origin": "Paley Park, 3 E 53rd St, New York, NY 10022, USA", "destination": "7 Av, New York, NY 10019, USA", "distancekm": "0.6 km", "distancem": 618, "durationmin": "4 mins", "durationsec": 244}
+{"origin": "7 Av, New York, NY 10019, USA", "destination": "832 8th Ave, New York, NY 10019, USA", "distancekm": "0.7 km", "distancem": 716, "durationmin": "4 mins", "durationsec": 258}
+{"origin": "832 8th Ave, New York, NY 10019, USA", "destination": "42nd St & 8th Ave, New York, NY 10036, USA", "distancekm": "1.3 km", "distancem": 1344, "durationmin": "6 mins", "durationsec": 338}
+{"origin": "42nd St & 8th Ave, New York, NY 10036, USA", "destination": "One Pennsylvania Plaza Suite 6308, New York, NY 10119, USA", "distancekm": "1.4 km", "distancem": 1362, "durationmin": "7 mins", "durationsec": 430}
+{"origin": "One Pennsylvania Plaza Suite 6308, New York, NY 10119, USA", "destination": "278 8th Ave, New York, NY 10011, USA", "distancekm": "2.0 km", "distancem": 1986, "durationmin": "9 mins", "durationsec": 532}
+{"origin": "278 8th Ave, New York, NY 10011, USA", "destination": "114 8th Ave, New York, NY 10011, USA", "distancekm": "1.3 km", "distancem": 1309, "durationmin": "5 mins", "durationsec": 286}
+{"origin": "114 8th Ave, New York, NY 10011, USA", "destination": "W 4 St-Wash Sq, 340 6th Ave, New York, NY 10011, USA", "distancekm": "1.3 km", "distancem": 1320, "durationmin": "5 mins", "durationsec": 324}
+{"origin": "W 4 St-Wash Sq, 340 6th Ave, New York, NY 10011, USA", "destination": "188 6th Ave, New York, NY 10013, USA", "distancekm": "1.5 km", "distancem": 1469, "durationmin": "6 mins", "durationsec": 367}
+{"origin": "188 6th Ave, New York, NY 10013, USA", "destination": "Canal St, New York, NY 10013, USA", "distancekm": "1.0 km", "distancem": 1000, "durationmin": "6 mins", "durationsec": 332}
+{"origin": "Canal St, New York, NY 10013, USA", "destination": "World Trade Center, New York, NY 10007, USA", "distancekm": "1.9 km", "distancem": 1896, "durationmin": "9 mins", "durationsec": 556}

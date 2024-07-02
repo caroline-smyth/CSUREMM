@@ -1,0 +1,4 @@
+{"origin": "616 W Rd, Broad Channel, NY 11693, USA", "destination": "Beach 90 St, Queens, NY 11693, USA", "distancekm": "3.2 km", "distancem": 3154, "durationmin": "7 mins", "durationsec": 399}
+{"origin": "Beach 90 St, Queens, NY 11693, USA", "destination": "Beach 98 St, Queens, NY 11694, USA", "distancekm": "1.7 km", "distancem": 1661, "durationmin": "6 mins", "durationsec": 356}
+{"origin": "Beach 98 St, Queens, NY 11694, USA", "destination": "Beach 105 St, Queens, NY 11694, USA", "distancekm": "1.2 km", "distancem": 1203, "durationmin": "5 mins", "durationsec": 287}
+{"origin": "Beach 105 St, Queens, NY 11694, USA", "destination": "113-24 Rockaway Beach Blvd, Far Rockaway, NY 11694, USA", "distancekm": "1.0 km", "distancem": 1021, "durationmin": "3 mins", "durationsec": 192}

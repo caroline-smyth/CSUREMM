@@ -1,0 +1,9 @@
+{"origin": "White Plains Rd/Nereid Av, Bronx, NY 10466, USA", "destination": "4189 White Plains Rd, Bronx, NY 10466, USA", "distancekm": "0.6 km", "distancem": 634, "durationmin": "2 mins", "durationsec": 148}
+{"origin": "4189 White Plains Rd, Bronx, NY 10466, USA", "destination": "White Plains Rd/E 225 St, Bronx, NY 10466, USA", "distancekm": "0.6 km", "distancem": 624, "durationmin": "3 mins", "durationsec": 166}
+{"origin": "White Plains Rd/E 225 St, Bronx, NY 10466, USA", "destination": "219 St, Bronx, NY 10467, USA", "distancekm": "0.5 km", "distancem": 497, "durationmin": "2 mins", "durationsec": 129}
+{"origin": "219 St, Bronx, NY 10467, USA", "destination": "6919 Duncomb Ave, Bronx, NY 10467, USA", "distancekm": "0.7 km", "distancem": 741, "durationmin": "3 mins", "durationsec": 161}
+{"origin": "6919 Duncomb Ave, Bronx, NY 10467, USA", "destination": "White Plains Rd/Burke Av, Bronx, NY 10467, USA", "distancekm": "0.9 km", "distancem": 902, "durationmin": "3 mins", "durationsec": 203}
+{"origin": "White Plains Rd/Burke Av, Bronx, NY 10467, USA", "destination": "Allerton Av, Bronx, NY 10467, USA", "distancekm": "0.7 km", "distancem": 656, "durationmin": "2 mins", "durationsec": 141}
+{"origin": "Allerton Av, Bronx, NY 10467, USA", "destination": "Pelham Pkwy, 2188 White Plains Rd, Bronx, NY 10462, USA", "distancekm": "0.9 km", "distancem": 949, "durationmin": "4 mins", "durationsec": 264}
+{"origin": "Pelham Pkwy, 2188 White Plains Rd, Bronx, NY 10462, USA", "destination": "1978 Birchall Ave, Bronx, NY 10462, USA", "distancekm": "0.9 km", "distancem": 940, "durationmin": "3 mins", "durationsec": 205}
+{"origin": "1978 Birchall Ave, Bronx, NY 10462, USA", "destination": "E 180 St, Bronx, NY 10460, USA", "distancekm": "1.4 km", "distancem": 1388, "durationmin": "5 mins", "durationsec": 277}

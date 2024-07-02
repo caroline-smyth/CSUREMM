@@ -1,0 +1,35 @@
+{"origin": "Eastchester-Dyre Av, Bronx, NY 10466, USA", "destination": "3423 Baychester Ave, Bronx, NY 10469, USA", "distancekm": "1.8 km", "distancem": 1752, "durationmin": "5 mins", "durationsec": 299}
+{"origin": "3423 Baychester Ave, Bronx, NY 10469, USA", "destination": "Gun Hill Rd, Bronx, NY 10469, USA", "distancekm": "1.7 km", "distancem": 1656, "durationmin": "6 mins", "durationsec": 334}
+{"origin": "Gun Hill Rd, Bronx, NY 10469, USA", "destination": "Pelham Pkwy, Bronx, NY 10469, USA", "distancekm": "1.7 km", "distancem": 1721, "durationmin": "5 mins", "durationsec": 279}
+{"origin": "Pelham Pkwy, Bronx, NY 10469, USA", "destination": "Morris Park, Bronx, NY 10462, USA", "distancekm": "1.5 km", "distancem": 1455, "durationmin": "6 mins", "durationsec": 343}
+{"origin": "Morris Park, Bronx, NY 10462, USA", "destination": "E 180 St, Bronx, NY 10460, USA", "distancekm": "2.6 km", "distancem": 2572, "durationmin": "8 mins", "durationsec": 508}
+{"origin": "E 180 St, Bronx, NY 10460, USA", "destination": "2012 Boston Rd, Bronx, NY 10460, USA", "distancekm": "0.7 km", "distancem": 707, "durationmin": "3 mins", "durationsec": 199}
+{"origin": "2012 Boston Rd, Bronx, NY 10460, USA", "destination": "1718 Southern Blvd, Bronx, NY 10460, USA", "distancekm": "0.7 km", "distancem": 747, "durationmin": "3 mins", "durationsec": 169}
+{"origin": "1718 Southern Blvd, Bronx, NY 10460, USA", "destination": "Southern Blvd/Freeman St, Bronx, NY 10459, USA", "distancekm": "0.9 km", "distancem": 886, "durationmin": "3 mins", "durationsec": 160}
+{"origin": "Southern Blvd/Freeman St, Bronx, NY 10459, USA", "destination": "Simpson St, Bronx, NY 10459, USA", "distancekm": "0.7 km", "distancem": 708, "durationmin": "3 mins", "durationsec": 166}
+{"origin": "Simpson St, Bronx, NY 10459, USA", "destination": "Intervale Av, Bronx, NY 10459, USA", "distancekm": "0.4 km", "distancem": 374, "durationmin": "1 min", "durationsec": 80}
+{"origin": "Intervale Av, Bronx, NY 10459, USA", "destination": "821 Prospect Ave, Bronx, NY 10455, USA", "distancekm": "0.5 km", "distancem": 524, "durationmin": "2 mins", "durationsec": 126}
+{"origin": "821 Prospect Ave, Bronx, NY 10455, USA", "destination": "Westchester Av/Jackson Av, Bronx, NY 10455, USA", "distancekm": "0.6 km", "distancem": 615, "durationmin": "2 mins", "durationsec": 141}
+{"origin": "Westchester Av/Jackson Av, Bronx, NY 10455, USA", "destination": "3 Av-149 St, Bronx, NY 10455, USA", "distancekm": "0.9 km", "distancem": 910, "durationmin": "4 mins", "durationsec": 263}
+{"origin": "3 Av-149 St, Bronx, NY 10455, USA", "destination": "149 St-Grand Concourse, Bronx, NY 10451, USA", "distancekm": "1.3 km", "distancem": 1270, "durationmin": "6 mins", "durationsec": 385}
+{"origin": "149 St-Grand Concourse, Bronx, NY 10451, USA", "destination": "138 St-Grand Concourse, Bronx, NY 10451, USA", "distancekm": "1.1 km", "distancem": 1141, "durationmin": "6 mins", "durationsec": 358}
+{"origin": "138 St-Grand Concourse, Bronx, NY 10451, USA", "destination": "Lexington Ave & East 125th St, New York, NY 10035, USA", "distancekm": "2.5 km", "distancem": 2486, "durationmin": "10 mins", "durationsec": 574}
+{"origin": "Lexington Ave & East 125th St, New York, NY 10035, USA", "destination": "157 East 86th St at, Lexington Ave, New York, NY 10028, USA", "distancekm": "3.1 km", "distancem": 3129, "durationmin": "11 mins", "durationsec": 662}
+{"origin": "157 East 86th St at, Lexington Ave, New York, NY 10028, USA", "destination": "745 Lexington Ave, New York, NY 10022, USA", "distancekm": "2.2 km", "distancem": 2155, "durationmin": "8 mins", "durationsec": 480}
+{"origin": "745 Lexington Ave, New York, NY 10022, USA", "destination": "107 E 42nd St, New York, NY 10017, USA", "distancekm": "1.5 km", "distancem": 1484, "durationmin": "6 mins", "durationsec": 388}
+{"origin": "107 E 42nd St, New York, NY 10017, USA", "destination": "14 St Union Sq, New York, NY 10003, USA", "distancekm": "2.7 km", "distancem": 2695, "durationmin": "11 mins", "durationsec": 678}
+{"origin": "14 St Union Sq, New York, NY 10003, USA", "destination": "Chambers St, New York, NY 10007, USA", "distancekm": "7.4 km", "distancem": 7416, "durationmin": "22 mins", "durationsec": 1310}
+{"origin": "Chambers St, New York, NY 10007, USA", "destination": "90-92 Nassau St, New York, NY 10038, USA", "distancekm": "1.0 km", "distancem": 950, "durationmin": "5 mins", "durationsec": 321}
+{"origin": "90-92 Nassau St, New York, NY 10038, USA", "destination": "Broadway & Wall St, New York, NY 10006, USA", "distancekm": "0.6 km", "distancem": 593, "durationmin": "3 mins", "durationsec": 208}
+{"origin": "Broadway & Wall St, New York, NY 10006, USA", "destination": "8 Broadway, New York, NY 10004, USA", "distancekm": "0.4 km", "distancem": 358, "durationmin": "2 mins", "durationsec": 105}
+{"origin": "8 Broadway, New York, NY 10004, USA", "destination": "25 Court St, Brooklyn, NY 11201, USA", "distancekm": "5.3 km", "distancem": 5333, "durationmin": "11 mins", "durationsec": 676}
+{"origin": "25 Court St, Brooklyn, NY 11201, USA", "destination": "Nevins St, Brooklyn, NY 11217, USA", "distancekm": "1.8 km", "distancem": 1774, "durationmin": "9 mins", "durationsec": 532}
+{"origin": "Nevins St, Brooklyn, NY 11217, USA", "destination": "Flatbush Ave/Atlantic Av, Brooklyn, NY 11217, USA", "distancekm": "0.5 km", "distancem": 548, "durationmin": "2 mins", "durationsec": 147}
+{"origin": "Flatbush Ave/Atlantic Av, Brooklyn, NY 11217, USA", "destination": "Franklin Av-Medgar Evers College, Brooklyn, NY 11225, USA", "distancekm": "2.5 km", "distancem": 2505, "durationmin": "9 mins", "durationsec": 524}
+{"origin": "Franklin Av-Medgar Evers College, Brooklyn, NY 11225, USA", "destination": "837 Nostrand Ave, Brooklyn, NY 11225, USA", "distancekm": "0.9 km", "distancem": 869, "durationmin": "3 mins", "durationsec": 173}
+{"origin": "837 Nostrand Ave, Brooklyn, NY 11225, USA", "destination": "1045 Nostrand Ave, Brooklyn, NY 11225, USA", "distancekm": "0.6 km", "distancem": 574, "durationmin": "2 mins", "durationsec": 120}
+{"origin": "1045 Nostrand Ave, Brooklyn, NY 11225, USA", "destination": "1247 Nostrand Ave, Brooklyn, NY 11225, USA", "distancekm": "0.7 km", "distancem": 679, "durationmin": "2 mins", "durationsec": 123}
+{"origin": "1247 Nostrand Ave, Brooklyn, NY 11225, USA", "destination": "Church Av, Brooklyn, NY 11226, USA", "distancekm": "0.6 km", "distancem": 648, "durationmin": "3 mins", "durationsec": 167}
+{"origin": "Church Av, Brooklyn, NY 11226, USA", "destination": "Beverly Rd, Brooklyn, NY 11226, USA", "distancekm": "0.6 km", "distancem": 641, "durationmin": "2 mins", "durationsec": 121}
+{"origin": "Beverly Rd, Brooklyn, NY 11226, USA", "destination": "Newkirk Av-Little Haiti, Newkirk Ave, Brooklyn, NY 11226, USA", "distancekm": "0.6 km", "distancem": 570, "durationmin": "2 mins", "durationsec": 107}
+{"origin": "Newkirk Av-Little Haiti, Newkirk Ave, Brooklyn, NY 11226, USA", "destination": "Hillel place, nostrand ave and, Flatbush Ave, Brooklyn, NY 11210, USA", "distancekm": "0.8 km", "distancem": 796, "durationmin": "3 mins", "durationsec": 190}

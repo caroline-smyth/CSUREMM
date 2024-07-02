@@ -1,0 +1,28 @@
+{"origin": "E 96 St/2 Ave, New York, NY 10128, USA", "destination": "2nd Ave & E 86th St, New York, NY 10028, USA", "distancekm": "0.8 km", "distancem": 818, "durationmin": "3 mins", "durationsec": 168}
+{"origin": "2nd Ave & E 86th St, New York, NY 10028, USA", "destination": "2 Av/E 72 St, New York, NY 10021, USA", "distancekm": "1.2 km", "distancem": 1151, "durationmin": "4 mins", "durationsec": 228}
+{"origin": "2 Av/E 72 St, New York, NY 10021, USA", "destination": "Lexington Av/63 St, New York, NY 10065, USA", "distancekm": "1.1 km", "distancem": 1068, "durationmin": "5 mins", "durationsec": 282}
+{"origin": "Lexington Av/63 St, New York, NY 10065, USA", "destination": "877 7th Ave, New York, NY 10019, USA", "distancekm": "1.7 km", "distancem": 1665, "durationmin": "8 mins", "durationsec": 494}
+{"origin": "877 7th Ave, New York, NY 10019, USA", "destination": "Times Sq - 42 St, New York, NY, USA", "distancekm": "2.4 km", "distancem": 2369, "durationmin": "10 mins", "durationsec": 570}
+{"origin": "Times Sq - 42 St, New York, NY, USA", "destination": "110 W 34th St. #305, New York, NY 10001, USA", "distancekm": "1.2 km", "distancem": 1182, "durationmin": "6 mins", "durationsec": 334}
+{"origin": "110 W 34th St. #305, New York, NY 10001, USA", "destination": "14 St Union Sq, New York, NY 10003, USA", "distancekm": "2.3 km", "distancem": 2315, "durationmin": "9 mins", "durationsec": 555}
+{"origin": "14 St Union Sq, New York, NY 10003, USA", "destination": "253 A Canal St, New York, NY 10013, USA", "distancekm": "2.7 km", "distancem": 2705, "durationmin": "11 mins", "durationsec": 672}
+{"origin": "253 A Canal St, New York, NY 10013, USA", "destination": "DeKalb Av, Brooklyn, NY 11217, USA", "distancekm": "3.6 km", "distancem": 3566, "durationmin": "10 mins", "durationsec": 577}
+{"origin": "DeKalb Av, Brooklyn, NY 11217, USA", "destination": "Flatbush Ave/Atlantic Av, Brooklyn, NY 11217, USA", "distancekm": "0.8 km", "distancem": 838, "durationmin": "4 mins", "durationsec": 230}
+{"origin": "Flatbush Ave/Atlantic Av, Brooklyn, NY 11217, USA", "destination": "320 Flatbush Ave, Brooklyn, NY 11238, USA", "distancekm": "0.9 km", "distancem": 918, "durationmin": "4 mins", "durationsec": 224}
+{"origin": "320 Flatbush Ave, Brooklyn, NY 11238, USA", "destination": "Sterling St, Brooklyn, NY 11225, USA", "distancekm": "2.0 km", "distancem": 1975, "durationmin": "5 mins", "durationsec": 329}
+{"origin": "Sterling St, Brooklyn, NY 11225, USA", "destination": "Parkside Av, Parkside Ave, Brooklyn, NY 11226, USA", "distancekm": "0.9 km", "distancem": 943, "durationmin": "4 mins", "durationsec": 251}
+{"origin": "Parkside Av, Parkside Ave, Brooklyn, NY 11226, USA", "destination": "130 St Pauls Pl, Brooklyn, NY 11226, USA", "distancekm": "0.7 km", "distancem": 652, "durationmin": "3 mins", "durationsec": 186}
+{"origin": "130 St Pauls Pl, Brooklyn, NY 11226, USA", "destination": "249 Marlborough Rd, Brooklyn, NY 11226, USA", "distancekm": "0.9 km", "distancem": 853, "durationmin": "4 mins", "durationsec": 215}
+{"origin": "249 Marlborough Rd, Brooklyn, NY 11226, USA", "destination": "390 E 16th St, Brooklyn, NY 11226, USA", "distancekm": "0.4 km", "distancem": 425, "durationmin": "2 mins", "durationsec": 109}
+{"origin": "390 E 16th St, Brooklyn, NY 11226, USA", "destination": "Newkirk Plaza, Newkirk Plaza, Brooklyn, NY 11226, USA", "distancekm": "0.7 km", "distancem": 656, "durationmin": "3 mins", "durationsec": 167}
+{"origin": "Newkirk Plaza, Newkirk Plaza, Brooklyn, NY 11226, USA", "destination": "829 E 15th St, Brooklyn, NY 11230, USA", "distancekm": "0.9 km", "distancem": 851, "durationmin": "3 mins", "durationsec": 203}
+{"origin": "829 E 15th St, Brooklyn, NY 11230, USA", "destination": "Avenue J, Brooklyn, NY 11230, USA", "distancekm": "1.3 km", "distancem": 1337, "durationmin": "5 mins", "durationsec": 305}
+{"origin": "Avenue J, Brooklyn, NY 11230, USA", "destination": "1520 Avenue M, Brooklyn, NY 11230, USA", "distancekm": "1.2 km", "distancem": 1217, "durationmin": "6 mins", "durationsec": 338}
+{"origin": "1520 Avenue M, Brooklyn, NY 11230, USA", "destination": "Kings Hwy, Brooklyn, NY 11229, USA", "distancekm": "1.0 km", "distancem": 1008, "durationmin": "4 mins", "durationsec": 266}
+{"origin": "Kings Hwy, Brooklyn, NY 11229, USA", "destination": "1519 Avenue U, Brooklyn, NY 11229, USA", "distancekm": "1.3 km", "distancem": 1314, "durationmin": "6 mins", "durationsec": 366}
+{"origin": "1519 Avenue U, Brooklyn, NY 11229, USA", "destination": "Neck Rd, Brooklyn, NY 11229, USA", "distancekm": "0.5 km", "distancem": 455, "durationmin": "2 mins", "durationsec": 124}
+{"origin": "Neck Rd, Brooklyn, NY 11229, USA", "destination": "Sheepshead Bay, Brooklyn, NY 11235, USA", "distancekm": "1.1 km", "distancem": 1122, "durationmin": "5 mins", "durationsec": 295}
+{"origin": "Sheepshead Bay, Brooklyn, NY 11235, USA", "destination": "504 Brighton Beach Ave, Brooklyn, NY 11235, USA", "distancekm": "1.8 km", "distancem": 1796, "durationmin": "9 mins", "durationsec": 523}
+{"origin": "504 Brighton Beach Ave, Brooklyn, NY 11235, USA", "destination": "Ocean Pkwy, Brooklyn, NY 11235, USA", "distancekm": "1.4 km", "distancem": 1425, "durationmin": "7 mins", "durationsec": 403}
+{"origin": "Ocean Pkwy, Brooklyn, NY 11235, USA", "destination": "Brooklyn Half, 2927 W 8th St, Brooklyn, NY 11224, USA", "distancekm": "0.7 km", "distancem": 675, "durationmin": "3 mins", "durationsec": 171}
+{"origin": "Brooklyn Half, 2927 W 8th St, Brooklyn, NY 11224, USA", "destination": "Coney Island-Stillwell Av, Stillwell Ave, Brooklyn, NY 11224, USA", "distancekm": "0.8 km", "distancem": 788, "durationmin": "3 mins", "durationsec": 199}

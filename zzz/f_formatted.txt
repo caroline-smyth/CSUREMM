@@ -1,0 +1,13 @@
+{"origin": "Jamaica - 179 St, Queens, NY 11432, USA", "destination": "168-37 NY-25, Jamaica, NY 11432, USA", "distancekm": "1.5 km", "distancem": 1546, "durationmin": "6 mins", "durationsec": 355}
+{"origin": "168-37 NY-25, Jamaica, NY 11432, USA", "destination": "Hillside Av/Parsons Blvd, Queens, NY 11432, USA", "distancekm": "0.9 km", "distancem": 881, "durationmin": "3 mins", "durationsec": 200}
+{"origin": "Hillside Av/Parsons Blvd, Queens, NY 11432, USA", "destination": "144-28 Hillside Ave., Jamaica, NY 11435, USA", "distancekm": "0.7 km", "distancem": 662, "durationmin": "2 mins", "durationsec": 132}
+{"origin": "144-28 Hillside Ave., Jamaica, NY 11435, USA", "destination": "Briarwood, &, Queens Blvd &, Main St, Queens, NY 11435, USA", "distancekm": "1.6 km", "distancem": 1616, "durationmin": "5 mins", "durationsec": 304}
+{"origin": "Briarwood, &, Queens Blvd &, Main St, Queens, NY 11435, USA", "destination": "6459 Queens Blvd, Forest Hills, NY 11375, USA", "distancekm": "3.6 km", "distancem": 3620, "durationmin": "8 mins", "durationsec": 476}
+{"origin": "6459 Queens Blvd, Forest Hills, NY 11375, USA", "destination": "75 Av, 75th Ave, Queens, NY 11375, USA", "distancekm": "2.2 km", "distancem": 2177, "durationmin": "8 mins", "durationsec": 452}
+{"origin": "75 Av, 75th Ave, Queens, NY 11375, USA", "destination": "Forest Hills - 71 Av, Queens, NY 11375, USA", "distancekm": "1.1 km", "distancem": 1127, "durationmin": "5 mins", "durationsec": 270}
+{"origin": "Forest Hills - 71 Av, Queens, NY 11375, USA", "destination": "74 street Roosevelt Ave, Elmhurst, NY 11373, USA", "distancekm": "5.3 km", "distancem": 5329, "durationmin": "16 mins", "durationsec": 935}
+{"origin": "74 street Roosevelt Ave, Elmhurst, NY 11373, USA", "destination": "40-16 12th St, Long Island City, NY 11101, USA", "distancekm": "4.8 km", "distancem": 4845, "durationmin": "20 mins", "durationsec": 1192}
+{"origin": "40-16 12th St, Long Island City, NY 11101, USA", "destination": "Roosevelt Island, New York, NY 10044, USA", "distancekm": "3.1 km", "distancem": 3066, "durationmin": "10 mins", "durationsec": 608}
+{"origin": "Roosevelt Island, New York, NY 10044, USA", "destination": "Lexington Av/63 St, New York, NY 10065, USA", "distancekm": "6.1 km", "distancem": 6075, "durationmin": "17 mins", "durationsec": 1004}
+{"origin": "Lexington Av/63 St, New York, NY 10065, USA", "destination": "57 St, New York, NY 10019, USA", "distancekm": "1.6 km", "distancem": 1566, "durationmin": "8 mins", "durationsec": 496}
+{"origin": "57 St, New York, NY 10019, USA", "destination": "1220 6th Ave, New York, NY 10036, USA", "distancekm": "1.7 km", "distancem": 1668, "durationmin": "8 mins", "durationsec": 453}

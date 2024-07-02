@@ -1,0 +1,15 @@
+{"origin": "286 E 206th St, Bronx, NY 10467, USA", "destination": "Bedford Park Blvd, Bedford Park Blvd, Bronx, NY 10458, USA", "distancekm": "1.2 km", "distancem": 1213, "durationmin": "6 mins", "durationsec": 361}
+{"origin": "Bedford Park Blvd, Bedford Park Blvd, Bronx, NY 10458, USA", "destination": "2698 Grand Concourse, Bronx, NY 10458, USA", "distancekm": "1.4 km", "distancem": 1383, "durationmin": "5 mins", "durationsec": 301}
+{"origin": "2698 Grand Concourse, Bronx, NY 10458, USA", "destination": "Fordham Rd, Bronx, NY 10458, USA", "distancekm": "1.4 km", "distancem": 1396, "durationmin": "7 mins", "durationsec": 399}
+{"origin": "Fordham Rd, Bronx, NY 10458, USA", "destination": "182-183 Sts, Bronx, NY 10453, USA", "distancekm": "1.3 km", "distancem": 1337, "durationmin": "6 mins", "durationsec": 383}
+{"origin": "182-183 Sts, Bronx, NY 10453, USA", "destination": "Tremont Av, Bronx, NY 10453, USA", "distancekm": "1.9 km", "distancem": 1859, "durationmin": "8 mins", "durationsec": 458}
+{"origin": "Tremont Av, Bronx, NY 10453, USA", "destination": "174-175 Sts, Bronx, NY 10453, USA", "distancekm": "2.1 km", "distancem": 2114, "durationmin": "7 mins", "durationsec": 428}
+{"origin": "174-175 Sts, Bronx, NY 10453, USA", "destination": "1421 Grand Concourse, Bronx, NY 10452, USA", "distancekm": "1.5 km", "distancem": 1516, "durationmin": "5 mins", "durationsec": 296}
+{"origin": "1421 Grand Concourse, Bronx, NY 10452, USA", "destination": "167 St, Bronx, NY 10452, USA", "distancekm": "0.7 km", "distancem": 742, "durationmin": "2 mins", "durationsec": 126}
+{"origin": "167 St, Bronx, NY 10452, USA", "destination": "20 E 161st St, Bronx, NY 10452, USA", "distancekm": "1.1 km", "distancem": 1114, "durationmin": "4 mins", "durationsec": 248}
+{"origin": "20 E 161st St, Bronx, NY 10452, USA", "destination": "155 St, New York, NY 10039, USA", "distancekm": "1.9 km", "distancem": 1943, "durationmin": "8 mins", "durationsec": 455}
+{"origin": "155 St, New York, NY 10039, USA", "destination": "723-727 St Nicholas Ave, New York, NY 10031, USA", "distancekm": "1.1 km", "distancem": 1138, "durationmin": "5 mins", "durationsec": 293}
+{"origin": "723-727 St Nicholas Ave, New York, NY 10031, USA", "destination": "St Nicholas Ave/W 125 St, New York, NY 10027, USA", "distancekm": "1.7 km", "distancem": 1680, "durationmin": "6 mins", "durationsec": 335}
+{"origin": "St Nicholas Ave/W 125 St, New York, NY 10027, USA", "destination": "59 St - Columbus Circle, New York, NY, USA", "distancekm": "8.7 km", "distancem": 8701, "durationmin": "17 mins", "durationsec": 1032}
+{"origin": "59 St - Columbus Circle, New York, NY, USA", "destination": "7 Av, New York, NY 10019, USA", "distancekm": "1.4 km", "distancem": 1398, "durationmin": "8 mins", "durationsec": 455}
+{"origin": "7 Av, New York, NY 10019, USA", "destination": "1220 6th Ave, New York, NY 10036, USA", "distancekm": "0.7 km", "distancem": 702, "durationmin": "4 mins", "durationsec": 222}

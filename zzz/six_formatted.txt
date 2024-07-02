@@ -1,0 +1,37 @@
+{"origin": "Pelham Bay Park, Bronx, NY 10461, USA", "destination": "Westchester Ave/Crosby Av, Bronx, NY 10461, USA", "distancekm": "0.8 km", "distancem": 765, "durationmin": "3 mins", "durationsec": 184}
+{"origin": "Westchester Ave/Crosby Av, Bronx, NY 10461, USA", "destination": "2815 Westchester Ave, Bronx, NY 10461, USA", "distancekm": "0.5 km", "distancem": 455, "durationmin": "1 min", "durationsec": 70}
+{"origin": "2815 Westchester Ave, Bronx, NY 10461, USA", "destination": "Westchester Sq-E Tremont Av, Bronx, NY 10461, USA", "distancekm": "0.7 km", "distancem": 715, "durationmin": "4 mins", "durationsec": 226}
+{"origin": "Westchester Sq-E Tremont Av, Bronx, NY 10461, USA", "destination": "2360 Westchester Ave, Bronx, NY 10462, USA", "distancekm": "0.5 km", "distancem": 511, "durationmin": "2 mins", "durationsec": 105}
+{"origin": "2360 Westchester Ave, Bronx, NY 10462, USA", "destination": "2217 Westchester Ave, Bronx, NY 10462, USA", "distancekm": "0.5 km", "distancem": 451, "durationmin": "2 mins", "durationsec": 103}
+{"origin": "2217 Westchester Ave, Bronx, NY 10462, USA", "destination": "Parkchester, Bronx, NY 10472, USA", "distancekm": "3.9 km", "distancem": 3869, "durationmin": "9 mins", "durationsec": 520}
+{"origin": "Parkchester, Bronx, NY 10472, USA", "destination": "1770 A Westchester Ave, Bronx, NY 10472, USA", "distancekm": "2.5 km", "distancem": 2529, "durationmin": "7 mins", "durationsec": 443}
+{"origin": "1770 A Westchester Ave, Bronx, NY 10472, USA", "destination": "Westchester Av/Morrison Av, Bronx, NY 10472, USA", "distancekm": "0.6 km", "distancem": 622, "durationmin": "2 mins", "durationsec": 139}
+{"origin": "Westchester Av/Morrison Av, Bronx, NY 10472, USA", "destination": "Elder Av, Bronx, NY 10472, USA", "distancekm": "0.4 km", "distancem": 407, "durationmin": "2 mins", "durationsec": 119}
+{"origin": "Elder Av, Bronx, NY 10472, USA", "destination": "1133 Whitlock Ave, Bronx, NY 10459, USA", "distancekm": "0.7 km", "distancem": 733, "durationmin": "3 mins", "durationsec": 187}
+{"origin": "1133 Whitlock Ave, Bronx, NY 10459, USA", "destination": "Hunts Point Av, Bronx, NY 10474, USA", "distancekm": "0.8 km", "distancem": 772, "durationmin": "2 mins", "durationsec": 124}
+{"origin": "Hunts Point Av, Bronx, NY 10474, USA", "destination": "797 Southern Blvd, Bronx, NY 10455, USA", "distancekm": "1.0 km", "distancem": 995, "durationmin": "4 mins", "durationsec": 261}
+{"origin": "797 Southern Blvd, Bronx, NY 10455, USA", "destination": "E 149 St, Bronx, NY 10455, USA", "distancekm": "1.0 km", "distancem": 959, "durationmin": "4 mins", "durationsec": 255}
+{"origin": "E 149 St, Bronx, NY 10455, USA", "destination": "360 Southern Blvd, Bronx, NY 10455, USA", "distancekm": "1.5 km", "distancem": 1489, "durationmin": "5 mins", "durationsec": 323}
+{"origin": "360 Southern Blvd, Bronx, NY 10455, USA", "destination": "E 138 St/Cypress Av, Bronx, NY 10454, USA", "distancekm": "1.2 km", "distancem": 1176, "durationmin": "4 mins", "durationsec": 235}
+{"origin": "E 138 St/Cypress Av, Bronx, NY 10454, USA", "destination": "E 138th St &, Brook Ave, Bronx, NY 10454, USA", "distancekm": "0.5 km", "distancem": 501, "durationmin": "2 mins", "durationsec": 116}
+{"origin": "E 138th St &, Brook Ave, Bronx, NY 10454, USA", "destination": "3 Av - 138 St, Bronx, NY 10454, USA", "distancekm": "0.7 km", "distancem": 665, "durationmin": "3 mins", "durationsec": 160}
+{"origin": "3 Av - 138 St, Bronx, NY 10454, USA", "destination": "Lexington Ave & East 125th St, New York, NY 10035, USA", "distancekm": "1.4 km", "distancem": 1359, "durationmin": "5 mins", "durationsec": 305}
+{"origin": "Lexington Ave & East 125th St, New York, NY 10035, USA", "destination": "116 St, New York, NY 10035, USA", "distancekm": "0.7 km", "distancem": 700, "durationmin": "2 mins", "durationsec": 138}
+{"origin": "116 St, New York, NY 10035, USA", "destination": "167 Tito Puente Wy, New York, NY 10029, USA", "distancekm": "0.5 km", "distancem": 459, "durationmin": "1 min", "durationsec": 80}
+{"origin": "167 Tito Puente Wy, New York, NY 10029, USA", "destination": "Lexington Av/E 104 St, New York, NY 10029, USA", "distancekm": "0.6 km", "distancem": 562, "durationmin": "2 mins", "durationsec": 123}
+{"origin": "Lexington Av/E 104 St, New York, NY 10029, USA", "destination": "96 St, New York, NY, USA", "distancekm": "0.6 km", "distancem": 626, "durationmin": "3 mins", "durationsec": 152}
+{"origin": "96 St, New York, NY, USA", "destination": "157 East 86th St at, Lexington Ave, New York, NY 10028, USA", "distancekm": "0.8 km", "distancem": 783, "durationmin": "3 mins", "durationsec": 150}
+{"origin": "157 East 86th St at, Lexington Ave, New York, NY 10028, USA", "destination": "150 E 77th St, New York, NY 10075, USA", "distancekm": "0.7 km", "distancem": 746, "durationmin": "3 mins", "durationsec": 150}
+{"origin": "150 E 77th St, New York, NY 10075, USA", "destination": "932 Lexington Ave, New York, NY 10065, USA", "distancekm": "0.7 km", "distancem": 696, "durationmin": "2 mins", "durationsec": 147}
+{"origin": "932 Lexington Ave, New York, NY 10065, USA", "destination": "745 Lexington Ave, New York, NY 10022, USA", "distancekm": "0.7 km", "distancem": 713, "durationmin": "3 mins", "durationsec": 183}
+{"origin": "745 Lexington Ave, New York, NY 10022, USA", "destination": "51 St, Lexington &, E 51st St, New York, NY 10022, USA", "distancekm": "0.7 km", "distancem": 686, "durationmin": "3 mins", "durationsec": 162}
+{"origin": "51 St, Lexington &, E 51st St, New York, NY 10022, USA", "destination": "107 E 42nd St, New York, NY 10017, USA", "distancekm": "0.8 km", "distancem": 795, "durationmin": "4 mins", "durationsec": 242}
+{"origin": "107 E 42nd St, New York, NY 10017, USA", "destination": "2 Park Ave, New York, NY 10016, USA", "distancekm": "1.5 km", "distancem": 1459, "durationmin": "7 mins", "durationsec": 440}
+{"origin": "2 Park Ave, New York, NY 10016, USA", "destination": "395 Park Ave S, New York, NY 10016, USA", "distancekm": "0.4 km", "distancem": 382, "durationmin": "2 mins", "durationsec": 98}
+{"origin": "395 Park Ave S, New York, NY 10016, USA", "destination": "290 Park Ave S, New York, NY 10010, USA", "distancekm": "0.4 km", "distancem": 407, "durationmin": "1 min", "durationsec": 84}
+{"origin": "290 Park Ave S, New York, NY 10010, USA", "destination": "14 St Union Sq, New York, NY 10003, USA", "distancekm": "1.1 km", "distancem": 1053, "durationmin": "5 mins", "durationsec": 274}
+{"origin": "14 St Union Sq, New York, NY 10003, USA", "destination": "Astor Pl, New York, NY 10003, USA", "distancekm": "1.2 km", "distancem": 1218, "durationmin": "6 mins", "durationsec": 344}
+{"origin": "Astor Pl, New York, NY 10003, USA", "destination": "Bleecker St, New York, NY 10012, USA", "distancekm": "0.9 km", "distancem": 934, "durationmin": "4 mins", "durationsec": 226}
+{"origin": "Bleecker St, New York, NY 10012, USA", "destination": "Spring St, New York, NY 10012, USA", "distancekm": "0.9 km", "distancem": 902, "durationmin": "5 mins", "durationsec": 303}
+{"origin": "Spring St, New York, NY 10012, USA", "destination": "253 A Canal St, New York, NY 10013, USA", "distancekm": "0.5 km", "distancem": 495, "durationmin": "2 mins", "durationsec": 148}
+{"origin": "253 A Canal St, New York, NY 10013, USA", "destination": "Chambers St, New York, NY 10007, USA", "distancekm": "5.0 km", "distancem": 4966, "durationmin": "11 mins", "durationsec": 689}

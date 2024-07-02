@@ -1,0 +1,7 @@
+{'origin': '114 8th Ave, New York, NY 10011, USA', 'destination': 'Ave of The Americas/W 14 St, New York, NY 10011, USA', 'distancekm': '0.7 km', 'distancem': 745, 'durationmin': '3 mins', 'durationsec': 205} ,
+{'origin': 'Ave of The Americas/W 14 St, New York, NY 10011, USA', 'destination': '14 St Union Sq, New York, NY 10003, USA', 'distancekm': '0.7 km', 'distancem': 737, 'durationmin': '3 mins', 'durationsec': 207} ,
+{'origin': '14 St Union Sq, New York, NY 10003, USA', 'destination': '225 E 14th St, New York, NY 10003, USA', 'distancekm': '1.3 km', 'distancem': 1329, 'durationmin': '7 mins', 'durationsec': 422} ,
+{'origin': '225 E 14th St, New York, NY 10003, USA', 'destination': '416 E 14th St, New York, NY 10009, USA', 'distancekm': '0.4 km', 'distancem': 433, 'durationmin': '2 mins', 'durationsec': 112} ,
+{'origin': '416 E 14th St, New York, NY 10009, USA', 'destination': '183 N 7th St, Brooklyn, NY 11211, USA', 'distancekm': '5.6 km', 'distancem': 5632, 'durationmin': '21 mins', 'durationsec': 1285} ,
+{'origin': '183 N 7th St, Brooklyn, NY 11211, USA', 'destination': 'Metropolitan Av / Lorimer St, Brooklyn, NY 11211, USA', 'distancekm': '0.9 km', 'distancem': 948, 'durationmin': '4 mins', 'durationsec': 264} ,
+{'origin': 'Metropolitan Av / Lorimer St, Brooklyn, NY 11211, USA', 'destination': '749A Metropolitan Ave, Brooklyn, NY 11211, USA', 'distancekm': '0.5 km', 'distancem': 528, 'durationmin': '2 mins', 'durationsec': 112} ,

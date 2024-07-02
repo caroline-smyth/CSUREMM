@@ -1,0 +1,21 @@
+{"origin": "136-06 Roosevelt Ave, Queens, NY 11354, USA", "destination": "Roosevelt Av/Willets Point Blvd Station, Queens, NY 11368, USA", "distancekm": "1.4 km", "distancem": 1433, "durationmin": "5 mins", "durationsec": 289}
+{"origin": "Roosevelt Av/Willets Point Blvd Station, Queens, NY 11368, USA", "destination": "111 St, Queens, NY 11368, USA", "distancekm": "0.9 km", "distancem": 879, "durationmin": "2 mins", "durationsec": 134}
+{"origin": "111 St, Queens, NY 11368, USA", "destination": "103 Roosevelt Ave, Queens, NY 11368, USA", "distancekm": "0.7 km", "distancem": 657, "durationmin": "3 mins", "durationsec": 153}
+{"origin": "103 Roosevelt Ave, Queens, NY 11368, USA", "destination": "Junction Blvd, Queens, NY 11368, USA", "distancekm": "0.6 km", "distancem": 580, "durationmin": "3 mins", "durationsec": 158}
+{"origin": "Junction Blvd, Queens, NY 11368, USA", "destination": "84-74 90th St, Woodhaven, NY 11421, USA", "distancekm": "0.6 km", "distancem": 603, "durationmin": "3 mins", "durationsec": 167}
+{"origin": "84-74 90th St, Woodhaven, NY 11421, USA", "destination": "Roosevelt Av/82 St, Queens, NY 11373, USA", "distancekm": "0.6 km", "distancem": 603, "durationmin": "3 mins", "durationsec": 170}
+{"origin": "Roosevelt Av/82 St, Queens, NY 11373, USA", "destination": "74 St-Broadway, Queens, NY 11373, USA", "distancekm": "0.7 km", "distancem": 655, "durationmin": "3 mins", "durationsec": 191}
+{"origin": "74 St-Broadway, Queens, NY 11373, USA", "destination": "Roosevelt Av/69 St, Queens, NY 11377, USA", "distancekm": "0.4 km", "distancem": 424, "durationmin": "2 mins", "durationsec": 111}
+{"origin": "Roosevelt Av/69 St, Queens, NY 11377, USA", "destination": "61 St-Woodside, Queens, NY 11377, USA", "distancekm": "0.6 km", "distancem": 560, "durationmin": "2 mins", "durationsec": 121}
+{"origin": "61 St-Woodside, Queens, NY 11377, USA", "destination": "52 St, Queens, NY 11377, USA", "distancekm": "0.8 km", "distancem": 828, "durationmin": "3 mins", "durationsec": 191}
+{"origin": "52 St, Queens, NY 11377, USA", "destination": "46 St-Bliss St, 46th St, Queens, NY 11104, USA", "distancekm": "0.5 km", "distancem": 519, "durationmin": "2 mins", "durationsec": 125}
+{"origin": "46 St-Bliss St, 46th St, Queens, NY 11104, USA", "destination": "40 Queens Blvd, Sunnyside, NY 11104, USA", "distancekm": "0.5 km", "distancem": 475, "durationmin": "1 min", "durationsec": 81}
+{"origin": "40 Queens Blvd, Sunnyside, NY 11104, USA", "destination": "33 St-Rawson St, Queens, NY 11101, USA", "distancekm": "0.9 km", "distancem": 904, "durationmin": "4 mins", "durationsec": 244}
+{"origin": "33 St-Rawson St, Queens, NY 11101, USA", "destination": "Queensboro Plaza, Queens, NY 11101, USA", "distancekm": "6.0 km", "distancem": 5968, "durationmin": "13 mins", "durationsec": 791}
+{"origin": "Queensboro Plaza, Queens, NY 11101, USA", "destination": "44-78 23rd St, Long Island City, NY 11101, USA", "distancekm": "1.7 km", "distancem": 1713, "durationmin": "7 mins", "durationsec": 445}
+{"origin": "44-78 23rd St, Long Island City, NY 11101, USA", "destination": "21-0 49th Ave, Long Island City, NY 11101, USA", "distancekm": "0.7 km", "distancem": 689, "durationmin": "3 mins", "durationsec": 200}
+{"origin": "21-0 49th Ave, Long Island City, NY 11101, USA", "destination": "Vernon Blvd-Jackson Av, Queens, NY 11101, USA", "distancekm": "0.6 km", "distancem": 603, "durationmin": "3 mins", "durationsec": 157}
+{"origin": "Vernon Blvd-Jackson Av, Queens, NY 11101, USA", "destination": "107 E 42nd St, New York, NY 10017, USA", "distancekm": "3.5 km", "distancem": 3469, "durationmin": "8 mins", "durationsec": 500}
+{"origin": "107 E 42nd St, New York, NY 10017, USA", "destination": "10 W 42nd St, New York, NY 10036, USA", "distancekm": "0.5 km", "distancem": 487, "durationmin": "3 mins", "durationsec": 168}
+{"origin": "10 W 42nd St, New York, NY 10036, USA", "destination": "Times Sq - 42 St, New York, NY, USA", "distancekm": "0.6 km", "distancem": 563, "durationmin": "3 mins", "durationsec": 191}
+{"origin": "Times Sq - 42 St, New York, NY, USA", "destination": "Jatt Road &, 11th Ave, New York, NY 10001, USA", "distancekm": "1.7 km", "distancem": 1675, "durationmin": "7 mins", "durationsec": 404}
